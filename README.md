@@ -1,5 +1,5 @@
 
-# Android Engineer Code Challenge - Emprego Ligado
+# Android Engineer Code Challenge - LEVEE
 
 Através desse desafio, queremos conhecer suas habildades de desenvolvimento e principalmente como você resolve problemas.
 
@@ -9,15 +9,18 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
 ## Sobre o desafio
 
-O desafio consiste em construir uma aplicação para que o usuário possa fazer buscas por vagas de emprego na base do Indeed (https://www.indeed.com.br/publisher) e ver resultados.
+O desafio consiste em construir uma aplicação para que o usuário possa ver detalhes de vagas de emprego.
 Sua aplicação deve conter:
 * 2 telas;
-    * Busca por termo + latitude e longitude;
-    * Mapa com os markers de resultado;
-* Permitir acesso a minha localização no momento que a funcionalidade for necessária;
-* O mapa deve mostrar um pin indicando a minha localização e alguns markers mostrando o titulo da vaga e a cidade em que ela está;
-
-Você pode ajustar a interface como achar melhor, de modo que a navegação seja agradável e fluida.
+    * Tela inicial com componente que troque entre lista e mapa:
+      * Resultado da requisição em formato lista com informações;
+      * Mapa contendo markers customizados e informações da vaga;
+    * Tela com detalhes da vaga;
+      * Exibir todos os detalhes sobre o trabalho; 
+      * Exibir dentro da tela de descrição uma rota do usuário até a vaga;
+      * Exibir em um pop up as datas disponíveis de entrevista;
+      
+Todas as informações que serão exibidas ficam a seu critério. Você pode ajustar a interface como achar melhor, de modo que a navegação seja agradável e fluida.
 
 Bônus (não eliminatório):
 * Aplicação feita em kotlin;
@@ -47,4 +50,4 @@ Submissão
 
 * Fazer um fork desse repositório e nos mandar um pull request.
 * Nos dar acesso ao seu repositório no github, bitbucket ou gitlab. Adicione o usuário dcassiano.
-* Se precisar falar com a gente: engenheria@empregoligado.com.br.
+* Se precisar falar com a gente: engenheria@levee.com.br.
