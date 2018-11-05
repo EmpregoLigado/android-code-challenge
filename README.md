@@ -9,7 +9,7 @@ Você pode enviar o link de um pull request com uma contribuição sua para qual
 
 ## Sobre o desafio
 
-O desafio consiste em construir uma aplicação para que o usuário possa ver detalhes de vagas de emprego.
+O desafio consiste em construir uma aplicação para que o usuário possa ver detalhes de vagas de emprego, um arquivo postman com a API necessária será encaminhado por e-mail.
 Sua aplicação deve conter:
 * 2 telas;
     * Tela inicial com componente que troque entre lista e mapa:
