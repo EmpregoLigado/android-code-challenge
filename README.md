@@ -48,5 +48,5 @@ Sua capacidade de compreender um problema, desenhar uma solução e aplicá-la. 
 ## Para nos enviar seu código, você pode:
 
 * Fazer um fork desse repositório e nos mandar um pull request.
-* Nos dar acesso ao seu repositório no github, bitbucket ou gitlab. Adicione o usuário dcassiano.
+* Nos dar acesso ao seu repositório no github ou bitbucket. Adicione o usuário bonigauglitz.
 * Se precisar falar com a gente: engenheria@levee.com.br.
