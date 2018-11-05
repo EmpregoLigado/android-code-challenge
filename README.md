@@ -44,7 +44,6 @@ Bônus hints:
 ## O que está sendo avaliado
 
 Sua capacidade de compreender um problema, desenhar uma solução e aplicá-la. Queremos ver como você resolve o problema proposto e suas habilidades com as tecnologias propostas. Avaliaremos a qualidade do seu código, reutilização de componentes e boas práticas.
-Submissão
 
 ## Para nos enviar seu código, você pode:
 
