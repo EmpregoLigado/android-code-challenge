@@ -22,9 +22,6 @@ Sua aplicação deve conter:
       
 Todas as informações que serão exibidas ficam a seu critério. Você pode ajustar a interface como achar melhor, de modo que a navegação seja agradável e fluida.
 
-Bônus (não eliminatório):
-* Aplicação feita em kotlin;
-
 ## Pré-requisitos
 
 O seu teste deve ter um README com os passos necessários para:
